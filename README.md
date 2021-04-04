@@ -2,14 +2,28 @@
 
 ----------
 
-- O algoritmo tem como objetivo principal organizar música 
+- Esse mini projeto independente tem como objetivo principal organizar música 
   pela propriedade nome do artista do arquivo. Depois criando
   o diretório com nome do artista e movendo o arquivo de música
   para o respectivo diretória.
 
+- Observação: Esse software só foi testado para plataformas *Linux*, pode ser que não funcione corretamente em outras plataformas.
 
-## Modo de uso:
+## Modo de uso
+
+1. Baixe ou clone esse repositório, entre no diretorio *dist* e execute o arquivo *MusicOrganeizer*
+
+![alt](assets/gif01.gif)
+
+2. Selecione a pasta com suas músicas e clique no botão *Organizar Musicas*
+
+
+![alt](assets/gif02.gif)
+
+![alt](assets/gif03.gif)
+
+## Depencencias 
 
 - Instale a biblioteca mutagem no seu computador (link: https://mutagen.readthedocs.io/en/latest/user/index.html )
 
-- Só basta passar o path da pasta, na qual você quer organizar suas músicas.
+- Instale a biblioteca PyQt5 no seu computador (link: https://pypi.org/project/PyQt5/ )
