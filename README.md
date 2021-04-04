@@ -7,7 +7,7 @@
   o diretório com nome do artista e movendo o arquivo de música
   para o respectivo diretória.
 
-- Observação: Esse software só foi testado para plataformas *Linux*, pode ser que não funcione corretamente em outras plataformas.
+- Observação: Esse software só foi testado para plataformas *Linux*, pode ser que não funcione corretamente em outras plataformas. Sinta-se a vontade para fazer as implementações para *Windows*  e/ou  *Mac*, ou para fazer correções no código.
 
 ## Modo de uso
 
