@@ -22,7 +22,7 @@
 
 ![alt](assets/gif03.gif)
 
-## Depencencias 
+## Depencências 
 
 - Instale a biblioteca mutagem no seu computador (link: https://mutagen.readthedocs.io/en/latest/user/index.html )
 
